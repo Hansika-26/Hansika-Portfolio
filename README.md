@@ -196,4 +196,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-**Created with ❤️ by [NIMADITH-LMH](https://github.com/NIMADITH-LMH) for Hansika Rajapaksha**
