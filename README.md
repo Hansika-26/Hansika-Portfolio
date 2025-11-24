@@ -148,7 +148,7 @@ Hansika-Portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NIMADITH-LMH/Hansika-Portfolio.git
+   https://github.com/Hansika-26/Hansika-Portfolio.git
    ```
 
 2. **Navigate to project directory**
